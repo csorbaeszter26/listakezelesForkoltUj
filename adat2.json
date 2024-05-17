@@ -1,0 +1,53 @@
+{
+    "emberekLISTA": [
+      {
+        "id": "ndgt",
+        "nev": "Jenő",
+        "kor": 23,
+        "nem": true
+      },
+      {
+        "id": "lane",
+        "nev": "Juli",
+        "kor": 33,
+        "nem": false
+      },
+      {
+        "id": "ghsl",
+        "nev": "Géza",
+        "kor": 13,
+        "nem": true
+      },
+      {
+        "id": "ergd",
+        "nev": "Ádám",
+        "kor": 13,
+        "nem": true
+      },
+      {
+        "id": "ergw",
+        "nev": "Béla",
+        "kor": 133,
+        "nem": true
+      },
+      {
+        "id": "eecd",
+        "nev": "jancsi",
+        "kor": "44",
+        "nem": true
+      },
+      {
+        "id": "e68c",
+        "nev": "karesz",
+        "kor": "88",
+        "nem": true
+      },
+      {
+        "id": "0091",
+        "nev": "marika",
+        "kor": "11",
+        "nem": true
+      }
+    ],
+    "szallitasiadatokLista": []
+  }
